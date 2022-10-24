@@ -1,0 +1,5 @@
+
+#VS Code上でHTTPリクエストを送信し、VS Code上でレスポンスを確認できる「REST Client」拡張の紹介
+# https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c
+###
+GET https://qiita.com/api/v2/tags/JavaScript
